@@ -1,2 +1,2 @@
 # dummy
-Just a dummy proyect for unitTesting purpose of jgit API
+Just a dummy proyect for unitTesting purpose of jgit API test
